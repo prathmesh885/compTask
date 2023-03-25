@@ -1,0 +1,12 @@
+ul {
+    list-style: none;
+
+}
+
+.m-40 {
+    margin-top: 40px;
+}
+.imgTags{
+    background-size: cover;
+    background-position: center;
+}
